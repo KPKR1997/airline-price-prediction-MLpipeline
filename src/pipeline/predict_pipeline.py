@@ -33,8 +33,8 @@ class CustomData:
         arrival_time,
         destination_city:str,
         ticketclass:str,
-        duration:int,
-        days_left:int):
+        duration:float,
+        days_left:float):
 
         self.airline = airline
         self.source_city = source_city
