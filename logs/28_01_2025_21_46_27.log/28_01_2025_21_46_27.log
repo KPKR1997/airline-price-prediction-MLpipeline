@@ -1,0 +1,21 @@
+[2025-01-28 21:46:29,902] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-01-28 21:46:39,686] 26 root - INFO - Data ingestion started
+[2025-01-28 21:46:40,900] 30 root - INFO - Data ingestion completed. Data frame created with the file
+[2025-01-28 21:46:41,830] 37 root - INFO - Train_test_split initiated
+[2025-01-28 21:46:42,727] 41 root - INFO - Ingestion completed, Required data files created in artifacts
+[2025-01-28 21:46:43,030] 77 root - INFO - Loading train and test data completed
+[2025-01-28 21:46:43,030] 79 root - INFO - Obtaining preprocessor object
+[2025-01-28 21:46:43,030] 56 root - INFO - Categorical columns encoding done
+[2025-01-28 21:46:43,030] 57 root - INFO - Numerical columns scaling done
+[2025-01-28 21:46:43,052] 91 root - INFO - Applying preprocessing obj on train and test data
+[2025-01-28 21:46:44,863] 99 root - INFO - <class 'scipy.sparse._csr.csr_matrix'>
+[2025-01-28 21:46:44,863] 100 root - INFO - <class 'pandas.core.series.Series'>
+[2025-01-28 21:46:44,863] 101 root - INFO - <class 'scipy.sparse._csr.csr_matrix'>
+[2025-01-28 21:46:44,865] 102 root - INFO - <class 'pandas.core.series.Series'>
+[2025-01-28 21:46:44,893] 109 root - INFO - <class 'numpy.ndarray'>
+[2025-01-28 21:46:44,894] 110 root - INFO - <class 'pandas.core.series.Series'>
+[2025-01-28 21:46:44,894] 111 root - INFO - <class 'numpy.ndarray'>
+[2025-01-28 21:46:44,894] 112 root - INFO - <class 'pandas.core.series.Series'>
+[2025-01-28 21:46:44,923] 122 root - INFO - preprocessing completed
+[2025-01-28 21:46:44,989] 33 root - INFO - Starting model training
+[2025-01-28 21:50:07,297] 103 root - INFO - Model trained and best model evaluation done. Best model identified is RandomForestRegressor()

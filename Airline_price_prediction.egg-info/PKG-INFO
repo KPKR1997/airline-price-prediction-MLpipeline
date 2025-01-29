@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Airline_price_prediction
+Version: 1.0.0
+Author: Krishnaprakash
+Author-email: krishnaprakash997#gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: dill
+Requires-Dist: flask
+Requires-Dist: jinja2
