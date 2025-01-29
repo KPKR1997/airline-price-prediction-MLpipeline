@@ -55,7 +55,7 @@ class CustomData:
                  "stops" : [self.stops],
                  "arrival_time" : [self.arrival_time],
                  "destination_city" : [self.destination_city],
-                 "class":[self.ticketclass],
+                 "ticketclass":[self.ticketclass],
                  "duration":[self.duration],
                  "days_left":[self.days_left]
             }
